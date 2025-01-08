@@ -6,20 +6,11 @@ The United States Geological Survey (USGS) is dedicated to providing valuable sc
 ## Project Objective
 Develop a visualization tool that leverages USGS earthquake data to inform and educate the public and governmental organizations. This tool aims to facilitate better understanding and potentially aid in securing additional funding for further research and response strategies.
 
-## Instructions
-
-### Part 1: Create the Earthquake Visualization
-
-#### Getting Started
-1. **Acquire the Data:**
-   - Visit the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page.
-   - Choose a dataset to visualize, such as "All Earthquakes from the Past 7 Days," and obtain the JSON URL for the data.
-
-2. **Visualizing the Data:**
-   - Use Leaflet.js to create an interactive map plotting earthquakes based on longitude and latitude.
-   - Adjust marker sizes to reflect earthquake magnitudes and color depths to indicate the depth of the earthquakes. Darker colors should represent greater depths.
-   - Include popups for each marker to provide detailed information about the earthquake.
-   - Develop a legend to help users understand the map's markers regarding magnitude and depth.
+## Key Learnings
+- **Data Visualization Skills**: Improved understanding and ability to create dynamic data visualizations with Leaflet.js.
+- **API Integration**: Gained proficiency in integrating and parsing real-time data feeds from USGS using their GeoJSON API.
+- **Interactive Elements**: Learned to enhance user interaction through informative pop-ups and a comprehensive legend that aids in data interpretation.
+- **Problem Solving**: Developed problem-solving skills in adapting visualization tools to represent complex data sets effectively.
 
 
 ## Tools and Libraries
